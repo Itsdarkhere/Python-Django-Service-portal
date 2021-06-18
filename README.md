@@ -1,6 +1,6 @@
 # Python-Django-Service-portal
 
-Task from hyperskill.org
+Task from hyperskill.org <br/>
 398 completions <br/>
 Estimated time to complete: 32 hours. (Includes reading materials)
  
